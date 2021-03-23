@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06/03/2021, 04:46:23 م
+    Author     : AHmED AlAsHi
+*/
+.root{
+    -fx-background-color: aquamarine;
+    -fx-font-size: 12pt;
+    -fx-font-family: cursive;
+    -fx-font-size: 14pt;
+    -fx-font-style: italic;
+}
+.button{
+    -fx-background-color:  #0e2110;
+    -fx-font-weight: bold;
+    -fx-font-style:normal;
+    -fx-border-radius: 5px;
+    -fx-text-fill: white;
+}
+.vbox{
+    -fx-background-color:  #9fc2a3;
+}
+#label-error{
+    -fx-text-fill: red;
+}
